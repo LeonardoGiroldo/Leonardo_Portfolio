@@ -5,9 +5,9 @@
 * The data used was available in the 365 Data Science Complete Program 
 
 # Code and resources used:
-Python Version: 3.7
-Packages: pandas, numpy, matplotlib, sklearn, Seaborn
-365 Data Science Complete Program course: https://365datascience.com/courses/
+* Python Version: 3.7
+* Packages: pandas | numpy | matplotlib | sklearn | Seaborn
+* 365 Data Science Complete Program course: https://365datascience.com/courses/
 
 # Data Collection
 The dataset used was historical car used prices along with information about brand, mileage, engine, year and model and was available in the 365 Data Science Complete Program course
