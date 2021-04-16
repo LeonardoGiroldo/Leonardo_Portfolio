@@ -15,6 +15,8 @@ The dataset used was historical car used prices along with information about bra
 * I removed the missing values as they represented less than 5% of the observations
 * I checked also the probability distribution function for the numerical variables and removed the top 1% of the observations from the variables ‘Price’, ‘Mileage’, ‘Engine’ and ‘Year’
 
+![](https://github.com/LeonardoGiroldo/Leonardo_Portfolio/blob/main/Image1-project1.png)
+
 
 
 
