@@ -6,7 +6,7 @@
 
 # Code and resources used:
 * Python Version: 3.7
-* Packages: pandas | numpy | matplotlib | sklearn | Seaborn
+* Packages: Pandas | Numpy | Matplotlib | Sklearn | Seaborn
 * 365 Data Science Complete Program course: https://365datascience.com/courses/
 
 # Data Collection
