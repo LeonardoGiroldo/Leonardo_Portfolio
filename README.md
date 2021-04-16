@@ -17,6 +17,7 @@ The dataset used was historical car used prices along with information about bra
 
 ![](https://github.com/LeonardoGiroldo/Leonardo_Portfolio/blob/main/Image1-project1.png)
 
-
+# Exploratory Data Analysis (EDA)
+When exploring the data, I checked for the OLS assumptions and as the patterns of the variables were not linear, I performed a log transformation in the ‘Price’ variable as its distribution was exponential.
 
 
