@@ -22,4 +22,17 @@ When exploring the data, I checked for the OLS assumptions and as the patterns o
 
 ![](https://github.com/LeonardoGiroldo/Price_Prediction/blob/main/Image2-project1.png)
 
+I also checked for multicollinearity through VIF (Variance inflation factor) and dropped the variable ‘Year’ as its VIF was almost 10.
+I also created dummy variables for the categorical variables.
+
+# Model Building
+* Declared the dependent (Target) and independent (inputs) variables
+*	Scaled the data by using the StandardScaler from SKlearn
+*	Split the data with a test size of 20% using train_test_split 
+*	Created the Regression Model
+
+
+
+
+
 
